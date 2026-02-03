@@ -1,3 +1,4 @@
+
 public class BinaryToDecimal {
     public static void main(String[] args) {
         int binNum = 101;
