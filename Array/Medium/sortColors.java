@@ -15,7 +15,7 @@ public class sortColors {
   c2++;
   }
   }
-  
+
   int j = 0;
   while (c0 > 0) {
   nums[j] = 0;
@@ -36,7 +36,7 @@ public class sortColors {
 
   // optimal approach
   // public static void sort(int nums[]) {
-
+l
   // }
 
   public static void main(String[] args) {
